@@ -105,15 +105,6 @@ npm install
 ```
 npm run dev
 ```
-
----
-
-## 🚀 Build for Production
-
-```
-npm run build
-```
-
 ---
 
 ## 🔥 Why This Project Is Important
