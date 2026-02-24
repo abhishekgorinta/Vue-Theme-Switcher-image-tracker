@@ -5,7 +5,10 @@ A responsive and interactive Vue.js application demonstrating core Vue concepts 
 This project focuses on state-driven UI updates and activity tracking using Vue 3.
 
 ---
-
+## VIEW LIVE
+```
+https://cozy-kelpie-4ae5b2.netlify.app/
+```
 ## 🚀 Features
 
 ### 🌙 Dark / Light Theme Toggle
