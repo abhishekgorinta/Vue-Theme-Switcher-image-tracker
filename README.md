@@ -85,7 +85,7 @@ This project demonstrates:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/vue-theme-switcher.git
+git clone https://github.com/abhishekgorinta/Vue-Theme-Switcher-image-tracker.git
 ```
 
 2. Navigate into the project
@@ -113,21 +113,6 @@ npm run dev
 ```
 npm run build
 ```
-
----
-
-## 🌍 Deployment (GitHub Pages)
-
-1. Build the project:
-
-```
-npm run build
-```
-
-2. Deploy the `dist` folder using GitHub Pages or any static hosting platform like:
-   - GitHub Pages
-   - Netlify
-   - Vercel
 
 ---
 
